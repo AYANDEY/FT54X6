@@ -1,0 +1,4 @@
+FT54X6	KEYWORD1
+touched	KEYWORD2
+getTouchLoc	KEYWORD2
+getNoOfTouches	KEYWORD2
